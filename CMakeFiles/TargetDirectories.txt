@@ -1,0 +1,3 @@
+/media/fedor/2490938790935E5C/Program Files (x86)/111aaa/CMakeFiles/edit_cache.dir
+/media/fedor/2490938790935E5C/Program Files (x86)/111aaa/CMakeFiles/rebuild_cache.dir
+/media/fedor/2490938790935E5C/Program Files (x86)/111aaa/CMakeFiles/queue.dir
