@@ -105,4 +105,4 @@ int main(){
     ///Of-course cleaning up the memory, before finishing the program.
         data.destructor_of_array();
 }
-///P.S. 4epToB gpeBHe-yKpauHCKuu'(AHrJIuu'ckuu') npulllJIoCb ga}|{e google translate ucnoJIb3oBaTb
+
